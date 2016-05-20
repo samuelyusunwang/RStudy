@@ -49,6 +49,26 @@ setwd("/TimeSeries/") # change working directory to TimeSeries
 
 q() # end the session (keep reading)
 
+mydata = c(1,2,3,2,1)
+
+mydata # display the data
+
+mydata[3] # the third element
+
+mydata[3:5] # elements three through five
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
